@@ -1,0 +1,71 @@
+<manifest alg="2" build="2015.1.0.342" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="thesonograms.com" resolutions="1x" timestamp="1457033612236">
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="index.css" crc="20359676" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="409338010" ref="index"/>
+    <file name="museutils.js" crc="4190794036" ref="index"/>
+    <file name="whatinput.js" crc="84559013" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="webpro.js" crc="488283310" ref="index"/>
+    <file name="form_check.php" crc="430210585" ref="index"/>
+    <file name="form_throttle.php" crc="282343929" ref="index"/>
+    <file name="form_process.php" crc="339897355" ref="index"/>
+    <file name="form-u577.php" crc="19713501" ref="index"/>
+    <file name="jquery.watch.js" crc="349565855" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="spread page 1.jpg" crc="4044328552" seo="true" ref="index"/>
+    <file name="banner strip.png" crc="123018552" seo="true" ref="index"/>
+    <file name="u302-4.png" crc="72980373" ref="index"/>
+    <file name="splash.png" crc="3971990298" seo="true" ref="index"/>
+    <file name="top icons.png" crc="331005656" seo="true" ref="index"/>
+    <file name="u350-4.png" crc="3965216232" ref="index"/>
+    <file name="u316-18.png" crc="359745800" ref="index"/>
+    <file name="girlie.png" crc="3911608627" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u223.png" crc="4119588256" ref="index"/>
+    <file name="u223-r.png" crc="502643984" ref="index"/>
+    <file name="u225.png" crc="4132552896" ref="index"/>
+    <file name="u225-r.png" crc="4060206502" ref="index"/>
+    <file name="u226.png" crc="89302853" ref="index"/>
+    <file name="u226-r.png" crc="3969624046" ref="index"/>
+    <file name="u227.png" crc="3758347401" ref="index"/>
+    <file name="u227-r.png" crc="4251506340" ref="index"/>
+    <file name="u228.png" crc="4294255740" ref="index"/>
+    <file name="u228-r.png" crc="3887005574" ref="index"/>
+    <file name="u349-4.png" crc="3914830899" ref="index"/>
+    <file name="pekcf0dvw1.jpg" crc="3976473532" seo="true" ref="index"/>
+    <file name="u341-32.png" crc="4187889560" ref="index"/>
+    <file name="u342-32.png" crc="364049219" ref="index"/>
+    <file name="u354-4.png" crc="317631083" ref="index"/>
+    <file name="u389-4.png" crc="3859963041" ref="index"/>
+    <file name="cd mockup.jpg" crc="235247496" seo="true" ref="index"/>
+    <file name="vinyl mockup.jpg" crc="243602349" seo="true" ref="index"/>
+    <file name="cassette mockup.jpg" crc="5246334" seo="true" ref="index"/>
+    <file name="u390-4.png" crc="4221846583" ref="index"/>
+    <file name="t-shirt 2 mockup.jpg" crc="165109505" seo="true" ref="index"/>
+    <file name="t-shirt 1 mockup.jpg" crc="85362228" seo="true" ref="index"/>
+    <file name="t-shirt 4 mockup.jpg" crc="363292703" seo="true" ref="index"/>
+    <file name="u391-4.png" crc="4075958242" ref="index"/>
+    <file name="u397-4.png" crc="438661560" ref="index"/>
+    <file name="u395-4.png" crc="4006009162" ref="index"/>
+    <file name="abpe5lk.jpg" crc="3976388719" seo="true" ref="index"/>
+    <file name="u141-4.png" crc="4161091826" ref="index"/>
+    <file name="u546-4.png" crc="79874385" ref="index"/>
+    <file name="u549-4.png" crc="147780009" ref="index"/>
+    <file name="tumblr button a.png" crc="68204284" seo="true" ref="index"/>
+    <file name="vimeo button a.png" crc="87599164" seo="true" ref="index"/>
+    <file name="twitter button a.png" crc="313309340" seo="true" ref="index"/>
+    <file name="youtube button a.png" crc="153729386" seo="true" ref="index"/>
+    <file name="facebook button a.png" crc="4023424519" seo="true" ref="index"/>
+    <file name="souncloud button a.png" crc="83418602" seo="true" ref="index"/>
+    <file name="u591-17.png" crc="489606604" ref="index"/>
+    <file name="u591-17-r.png" crc="3909251148" ref="index"/>
+    <file name="u591-17-m.png" crc="385905370" ref="index"/>
+    <file name="u591-17-fs.png" crc="186992565" ref="index"/>
+    <file name="oranges.jpg" crc="111680764" ref="index"/>
+  </folder>
+  <file name="index.html" crc="434053863" seo="true" mt="1457032743643" redirect="true"/>
+</manifest>
